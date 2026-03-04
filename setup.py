@@ -21,7 +21,7 @@ setup(
     ],
     python_requires='>=3.6',
     author='Pedro Leite (adapted from original PLIP by Salentin et al.)',
-    author_email='pedrottfl@gmail.com',
+    author_email='pedrotenorio@ufmg.br',
     description='PLIP with cofactor support - treats cofactors as protein components',
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
