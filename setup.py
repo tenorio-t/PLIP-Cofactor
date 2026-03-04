@@ -25,7 +25,7 @@ setup(
     description='PLIP with cofactor support - treats cofactors as protein components',
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
-    url='https://github.com/YOUR_USERNAME/plip-cofactor',
+    url='https://github.com/PTenorioTFLeite/PLIP-Cofactor',
     license='GPLv2',
     classifiers=[
         'Development Status :: 4 - Beta',
