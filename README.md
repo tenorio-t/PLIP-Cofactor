@@ -86,7 +86,7 @@ This is based on PLIP. For the original software:
 If you are using PLIP with cofactor support in your work, please cite:
 
 **For the cofactor modification:**
-- Leite, P. et al. "Reading between the Chains: Surface Mapping and Druggable Pockets on the Biological Assemblies of DENV-2's Protein E." *ACS Omega* 2025. doi: [10.1021/acsomega.5c08709](https://pubs.acs.org/doi/10.1021/acsomega.5c08709)
+- Leite, P. et al. "Reading between the Chains: Surface Mapping and Druggable Pockets on the Biological Assemblies of DENV-2's Protein E." *ACS Omega* 2026. doi: [10.1021/acsomega.5c08709](https://pubs.acs.org/doi/10.1021/acsomega.5c08709)
 
 **For the original PLIP:**
 - Adasme, M. et al. "PLIP 2021: expanding the scope of the protein-ligand interaction profiler to DNA and RNA." *Nucleic Acids Research* (05 May 2021), gkab294. doi: [10.1093/nar/gkab294](https://doi.org/10.1093/nar/gkab294)
