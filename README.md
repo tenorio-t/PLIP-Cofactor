@@ -82,7 +82,21 @@ This is based on PLIP. For the original software:
 
 \- Repository: https://github.com/pharmai/plip
 
-\- Citation: Adasme,M. et al. PLIP 2021: expanding the scope of the protein-ligand interaction profiler to DNA and RNA. Nucl. Acids Res. (05 May 2021)
+\- Citation: 
+If you are using PLIP with cofactor support in your work, please cite:
+
+**For the cofactor modification:**
+- Leite, P. et al. "Reading between the Chains: Surface Mapping and Druggable Pockets on the Biological Assemblies of DENV-2's Protein E." *ACS Omega* 2025. doi: [10.1021/acsomega.5c08709](https://pubs.acs.org/doi/10.1021/acsomega.5c08709)
+
+**For the original PLIP:**
+- Adasme, M. et al. "PLIP 2021: expanding the scope of the protein-ligand interaction profiler to DNA and RNA." *Nucleic Acids Research* (05 May 2021), gkab294. doi: [10.1093/nar/gkab294](https://doi.org/10.1093/nar/gkab294)
+
+or
+
+- Salentin, S. et al. "PLIP: fully automated protein-ligand interaction profiler." *Nucleic Acids Research* (1 July 2015) 43 (W1): W443-W447. doi: [10.1093/nar/gkv315](https://doi.org/10.1093/nar/gkv315)
+
+
+
 
 
 
